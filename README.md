@@ -16,3 +16,6 @@
 2.命令终端执行：`webpack`
 
 3.在3000端口浏览页面即可！
+
+## 效果图：
+![Image text](readme.png)
